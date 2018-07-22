@@ -6,9 +6,9 @@
     </a>
 </p>
 
-Course 1 of 6 in the Machine Learning and Data Analysis Specialization 
+Course 1 of 6 in the [Machine Learning and Data Analysis Specialization](https://www.coursera.org/specializations/machine-learning-data-analysis)
 
-Syllabus:
+## Syllabus
 1. [Introduction (Введение)](W1)
 2. [Python libraries and linear algebra (Библиотеки Python и линейная алгебра)](W2)
 3. [Optimization problems and matrix decompositions (Оптимизация и матричные разложения)](W3)
